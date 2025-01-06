@@ -3,7 +3,7 @@ library(tarchetypes)
 suppressPackageStartupMessages(library(tidyverse))
 
 class_number <- "PHHBHP 7534"
-base_url <- "https://www.netifly.com/phhbhp7534/"
+base_url <- "https://www.netifly.com/phhbhp7534sp25/"
 page_suffix <- ".html"
 
 options(tidyverse.quiet = TRUE,

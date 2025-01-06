@@ -16,10 +16,10 @@ withr::with_dir(here::here(), {
 })
 ```
 
-# Program Evaluation for Public Service <a href='https://evalsp23.classes.andrewheiss.com/'><img src='files/icon-512.png' align="right" height="139" /></a>
+# Program Evaluation for Public Service <a href='https://phhbhp7534sp25.netlify.app//'><img src='files/icon-512.png' align="right" height="139" /></a>
 
-[PMAP 8521 • Spring 2023](https://evalsp23.classes.andrewheiss.com/)  
-[Andrew Heiss](https://www.andrewheiss.com/) • Andrew Young School of Policy Studies • Georgia State University
+[PHHBHP 7534 • Spring 2025](https://phhbhp7534sp25.netlify.app/)  
+[Andrew Heiss](https://www.bigdataforsocialjustice.com/) • CPH • Ohio State University
 
 ---
 
